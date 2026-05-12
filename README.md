@@ -16,9 +16,9 @@ This repository contains the data and analysis code for an IMBA thesis examining
 confidentiality. De-identified summary statistics are available upon 
 reasonable request to the corresponding author.
 ├── scripts/
-│   └── analysis.R            # Complete reproducible analysis
-├── figures/                   # Generated figures (Figures 2–8)
-├── NTHU_AIS_Analysis.Rproj   # RStudio project file
+│   └── analysis.R            # Complete
+├── figures/                   # Generated figures
+├── NTHU_AIS_Analysis.Rproj   # RStudio project
 ├── .gitignore
 └── README.md
 ```
