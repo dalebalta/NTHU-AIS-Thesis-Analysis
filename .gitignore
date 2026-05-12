@@ -1,0 +1,23 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Saved analysis objects (large; reproducible from script)
+data/*.RData
+
+# Legacy script versions (kept locally, not tracked)
+NTHU_Thesis.R
+NTHU_Thesis Analysis .R
+Updated.R
+Visualization_Code.R
+Final.R
+
+# Old figure outputs in root (figures now go to figures/)
+*.png
+*.pdf
+!figures/*.png
+!figures/*.pdf
