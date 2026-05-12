@@ -12,7 +12,9 @@ This repository contains the data and analysis code for an IMBA thesis examining
 
 ```
 ├── data/
-│   └── Evaluating User Satisfaction with NTHUs AIS.csv   # Survey responses (N = 77)
+│   └──  Raw survey data are not publicly shared to protect participant 
+confidentiality. De-identified summary statistics are available upon 
+reasonable request to the corresponding author.
 ├── scripts/
 │   └── analysis.R            # Complete reproducible analysis
 ├── figures/                   # Generated figures (Figures 2–8)
